@@ -80,10 +80,10 @@ The performance of both implementations is evaluated based on:
   - False Negatives (FN): 1
 
 - **Scikit-learn Implementation:**
-  - True Positives (TP): 88
+  - True Positives (TP): 86
   - False Positives (FP): 0
   - True Negatives (TN): 26
-  - False Negatives (FN): 0
+  - False Negatives (FN): 2
 
 ## ROC Curve and Evaluation Metrics
 
