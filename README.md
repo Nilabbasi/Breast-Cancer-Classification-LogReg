@@ -51,7 +51,7 @@ The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dat
 
 Here is the heatmap of the dataset used in the analysis:
 
-![Heatmap](https://raw.githubusercontent.com/Nilabbasi/Breast-Cancer-Classification-LogReg/main/heatmap.png)
+![Heatmap](https://github.com/Nilabbasi/Breast-Cancer-Classification-LogReg/blob/main/heatmap.png)
 
 ## Implementation
 
