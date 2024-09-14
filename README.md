@@ -105,16 +105,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Usage
 
 1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd logistic-regression-classifier
-   ```
-
 2. Run the Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 3. Follow the cells in the notebook to execute the Logistic Regression implementations and visualize the results.
 
 
