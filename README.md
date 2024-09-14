@@ -14,7 +14,6 @@ This project implements a Logistic Regression model for binary classification us
 - [ROC Curve and Evaluation Metrics](#roc-curve-and-evaluation-metrics)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -112,7 +111,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 3. Follow the cells in the notebook to execute the Logistic Regression implementations and visualize the results.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
