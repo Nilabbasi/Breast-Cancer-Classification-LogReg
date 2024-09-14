@@ -47,6 +47,12 @@ from sklearn.datasets import load_breast_cancer
 
 The dataset used in this project is the Breast Cancer Wisconsin (Diagnostic) dataset from the `sklearn` library. It contains 569 samples with 30 features, indicating various characteristics of tumors, and a binary target variable indicating whether a tumor is malignant (1) or benign (0).
 
+## Heatmap of Dataset
+
+Here is the heatmap of the dataset used in the analysis:
+
+![Heatmap](https://raw.githubusercontent.com/Nilabbasi/Breast-Cancer-Classification-LogReg/main/heatmap.png)
+
 ## Implementation
 
 ### Custom Logistic Regression Model
